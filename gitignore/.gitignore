@@ -1,0 +1,7 @@
+# Visual Studio ile ilgili dosyalar
+.vs/
+*.suo
+*.vscode
+*.exe
+*.dll
+node_modules/
