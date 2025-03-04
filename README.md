@@ -1,0 +1,1 @@
+Bu proje, Bootstrap kullanarak bir resim galerisi oluþturmaktadýr.
